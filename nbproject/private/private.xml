@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/controller/ChatController.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/controller/AuthController.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/interfaces/IDatabaseConnection.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/interfaces/IChat.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/screens/ChatScreen.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/connection/DatabaseConnection.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/screens/AuthScreen.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/interfaces/IAuth.java</file>
+            <file>file:/D:/bukc/oop/projects/party%20chat/src/party/chat/globals/Globals.java</file>
+        </group>
+    </open-files>
+</project-private>
